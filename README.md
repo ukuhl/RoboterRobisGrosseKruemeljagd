@@ -2,7 +2,7 @@
 
 Dieses Repository enthält ein [Kinderbuch](https://github.com/ukuhl/RoboterRobisGrosseKruemeljagd/blob/db57141a0fedf82d04c86ad187daaa436091f904/RoboterRobi_de_FINAL.pdf) geschrieben von Ulrike Kuhl über einen Staubsaugerroboter, der auszog, um Krümel zu finden.
 Die Bilder in diesem Buch wurden generiert mithilfe von [DALL•E 2](https://openai.com/dall-e-2/) von OpenAI.
-Eine englische Übersetzung, erstellt mithilfe von OpenAI's [ChatGPT](https://openai.com/blog/chatgpt/), ist [hier]() verfügbar.
+Eine englische Übersetzung, erstellt mithilfe von OpenAI's [ChatGPT](https://openai.com/blog/chatgpt/), ist [hier](https://github.com/ukuhl/RobotRobisGreatCrumbQuest) verfügbar.
 
 Copyright ©2023 by [Ulrike Kuhl](mailto:u_kuhl@web.de)
 
